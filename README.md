@@ -1,27 +1,37 @@
 # 👋 LMNS Dev
 
-Personal dev organization by [Luis Santos](https://luis-santos.vercel.app/) —
-software engineering student at ISEP building web, mobile and backend projects.
+Personal dev organization by **Luís Santos** — Master's student in Software Engineering
+at ISEP, former .NET developer, currently deep in security, DevOps and distributed systems.
 
-## 🎯 What's here
+→ [luis-santos.vercel.app](https://luis-santos.vercel.app/) · luismanuelsantos2801@gmail.com
 
-A mix of academic work, personal projects and open source experiments.
-The focus is on writing clean, maintainable software and learning modern
-engineering practices along the way — CI/CD, containers, APIs, databases
-and everything in between.
+## 🧑‍💻 About
 
-## 💻 Stack
+I use this organization to host personal projects, academic work and experiments that
+don't belong in my personal profile. Everything here is built with the same standards
+I apply professionally: CI/CD, automated tests, containers and clean architecture.
 
-Mostly working with **Python · FastAPI · Flutter · TypeScript · PostgreSQL**,
-with Docker and GitHub Actions keeping things reproducible and automated.
+Background in C# / .NET and full-stack web (Laravel, Vue.js). Currently working across
+Python, Flutter, TypeScript and Scala while studying security, distributed systems and
+model-driven engineering.
 
-## 📁 Projects
+## 📁 What lives here
 
-Projects here range from university coursework to personal tools.
-Some repositories may be private while in active development or containing
-work-in-progress academic material.
+| Type | Description |
+|---|---|
+| 🏗️ Personal projects | Apps and tools built for real use cases |
+| 🎓 Academic work | Team and individual coursework from MEI @ ISEP |
+| 🧪 Experiments | Prototypes and proof-of-concepts for things I'm learning |
+
+Some repositories are private while in active development or containing
+unreleased academic material.
+
+## 🛠️ Usual stack
+
+**Languages:** C# · Python · TypeScript · Dart · Scala  
+**Frameworks:** .NET · FastAPI · Flutter · Vue.js · Laravel  
+**Infra:** Docker · GitHub Actions · PostgreSQL · Supabase
 
 ## 📞 Contact
 
-**Email:** luismanuelsantos2801@gmail.com  
-**Website:** [luis-santos.vercel.app](https://luis-santos.vercel.app/)
+For questions or collaboration → **luismanuelsantos2801@gmail.com**
