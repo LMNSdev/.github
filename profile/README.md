@@ -3,7 +3,7 @@
 Personal dev organization by **Luís Santos** — Master's student in Software Engineering
 at ISEP, former .NET developer, currently deep in security, DevOps and distributed systems.
 
-→ [luis-santos.vercel.app](https://luis-santos.vercel.app/) · luismanuelsantos2801@gmail.com
+→ [luis-santos.vercel.app](https://builtbyluis.dev/) · luismanuelsantos2801@gmail.com
 
 ## 🧑‍💻 About
 
