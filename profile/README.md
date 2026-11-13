@@ -1,7 +1,7 @@
 # 👋 LMNS Dev
 
 Personal dev organization by **Luís Santos** — Master's student in Software Engineering
-at ISEP, former .NET developer, BsC in Informatics Engineer at ULO - Universidade de Leiria e Oeste.
+at ISEP, former .NET developer, BsC in Informatics Engineering at ULO - Universidade de Leiria e Oeste.
 
 → [builtbyluis.dev](https://builtbyluis.dev/) · [Email](mailto:EMAIL_CORRETO)
 
